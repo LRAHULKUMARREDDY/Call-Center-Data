@@ -1,7 +1,7 @@
 # Call-Center-Data
-#Title
+# Title
 # 📊 Call Centre Data Analysis Using Excel
-#Discription
+# Discription
 This project analyzes call centre performance using Microsoft Excel to generate meaningful insights from raw data.
 
 ## 🔧 Tools & Techniques
